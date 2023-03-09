@@ -1,0 +1,45 @@
+h1 {
+    text-align: center;
+    color: whitesmoke;
+    font-size: 55px;
+    font-family: 'Smokum', cursive;
+}
+h3 {
+    font-family: Arial;
+	color: #020202;
+    font-size: 29px;
+    font-weight: 100;
+    text-align: center;
+    text-indent: 30px;
+}
+b {
+    font-size: 25px;
+    color: rgb(252, 9, 191);
+}
+body {
+  background-image: url('https://media.istockphoto.com/id/1280385432/photo/abstract-background.jpg?b=1&s=170667a&w=0&k=20&c=ZupLjtCYxl0PmzrRpIrnNQVtef2Ytq_ZmDbqbCK87zA=');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+li {
+    color: #00B6BC;
+    font-size: 21px;
+    font-family: 'Tilt Prism', cursive;
+}
+i {
+    text-decoration: none;
+    color: #fdfbf9;
+    font-size: 23px;
+    font-family: 'Shantell Sans', cursive;
+}
+p {
+    color: #000000;
+    font-family: 'Tilt Neon', cursive;
+    font-size: 21px;
+}
+u {
+    text-decoration: none;
+    font-size: 23px;
+    color: #e6ff02;
+    font-family: 'Shantell Sans', cursive;
+}

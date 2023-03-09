@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Climate+Crisis&family=Genos&family=Karla:ital@1&family=Lobster&family=Quicksand:wght@500&family=Roboto+Condensed:wght@700&family=Rubik+Iso&family=Shantell+Sans:wght@300&family=Smokum&family=Tilt+Neon&family=Tilt+Prism&display=swap');
+h1{
+    font-size: 100px;
+    text-align: center;
+    font-weight: 600;
+    color: aqua;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+h2{
+    font-size: 55px;
+    color: rgb(55, 0, 252);
+    font-family: 'Rubik Iso', cursive;
+}
+h3{
+    font-size: 30px;
+    color: aliceblue;
+    font-family: 'Lobster', cursive;
+}
+body {
+    background-image: url('https://png.pngtree.com/thumb_back/fh260/back_pic/00/09/79/2756306046d7361.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+p {
+    color: red;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 23px;
+}
+b {
+    color:burlywood;
+    font-family: 'Karla', sans-serif;
+    font-size: 19px;
+}
+li {
+    color:rgba(0, 255, 0, 0.897);
+    font-family: 'Genos', sans-serif;
+    font-size: 23px;
+}

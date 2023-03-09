@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@600&family=Genos&family=Karla:ital@1&family=Lobster&family=Montserrat:wght@500&family=Quicksand:wght@500&family=Roboto+Condensed:wght@700&family=Roboto+Mono&family=Rubik+Iso&family=Shantell+Sans:wght@300&family=Tilt+Neon&family=Tilt+Prism&display=swap');
+h1 {
+    font-family: 'Tilt Prism', cursive;
+    text-align: center;
+    color: rgb(4, 61, 248);
+    font-size: 100px;
+}
+b {
+    font-family: 'Tilt Prism', cursive;
+    font-size: 30px;
+    color:rgb(0, 217, 255);
+}
+a {
+    text-decoration: none;
+    font-weight: 600;
+    color:darkkhaki;
+    font-family: 'Rubik Iso', cursive;
+    
+}
+h2 {
+    font-size: 28px;
+    color: yellow;
+    font-family: 'Quicksand', sans-serif;
+}
+i {
+    font-size: 26px;
+    color:darkorange;
+    font-family: 'Tilt Neon', cursive;
+}
+li {
+    font-size: 24px;
+    font-family: 'Roboto Condensed', sans-serif;
+    color:deeppink;
+}
+u {
+    text-decoration: none;
+    font-size: 22.5px;
+    color:rgb(255, 255, 255);
+    font-family: 'Shantell Sans', cursive;
+}
+body {
+    background-image: url('https://www.itl.cat/pngfile/big/195-1950897_matrix-code-animation-gif-free-animated-background-binary.gif');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
